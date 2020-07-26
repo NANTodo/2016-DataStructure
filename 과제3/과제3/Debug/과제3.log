@@ -1,0 +1,24 @@
+﻿빌드 시작: 2016-05-06 오후 4:13:21
+     1>2 노드의 "C:\Users\LG\Desktop\제출용\2-1 데구\과제3\과제3\과제3.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt "과제.c"
+         과제.c
+     1>c:\users\lg\desktop\제출용\2-1 데구\과제3\과제3\과제.c(35): warning C4013: 'InitStack'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+     1>c:\users\lg\desktop\제출용\2-1 데구\과제3\과제3\과제.c(38): warning C4013: 'Push'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+     1>c:\users\lg\desktop\제출용\2-1 데구\과제3\과제3\과제.c(40): warning C4013: 'IsEmpty'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+     1>c:\users\lg\desktop\제출용\2-1 데구\과제3\과제3\과제.c(42): warning C4013: 'Pop'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+     1>c:\users\lg\desktop\제출용\2-1 데구\과제3\과제3\과제.c(58): error C2037: 'data'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'stack'을(를) 지정합니다.
+     1>c:\users\lg\desktop\제출용\2-1 데구\과제3\과제3\과제.c(59): error C2037: 'next'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'stack'을(를) 지정합니다.
+     1>c:\users\lg\desktop\제출용\2-1 데구\과제3\과제3\과제.c(62): error C2037: 'data'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'stack'을(를) 지정합니다.
+     1>c:\users\lg\desktop\제출용\2-1 데구\과제3\과제3\과제.c(63): error C2037: 'next'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'stack'을(를) 지정합니다.
+     1>c:\users\lg\desktop\제출용\2-1 데구\과제3\과제3\과제.c(65): warning C4133: '=': 'int *'과(와) 'stack *' 사이의 형식이 호환되지 않습니다.
+     1>c:\users\lg\desktop\제출용\2-1 데구\과제3\과제3\과제.c(72): error C2037: 'data'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'stack'을(를) 지정합니다.
+     1>c:\users\lg\desktop\제출용\2-1 데구\과제3\과제3\과제.c(75): error C2037: 'data'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'stack'을(를) 지정합니다.
+     1>c:\users\lg\desktop\제출용\2-1 데구\과제3\과제3\과제.c(76): error C2037: 'next'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'stack'을(를) 지정합니다.
+     1>c:\users\lg\desktop\제출용\2-1 데구\과제3\과제3\과제.c(86): error C2037: 'data'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'stack'을(를) 지정합니다.
+     1>c:\users\lg\desktop\제출용\2-1 데구\과제3\과제3\과제.c(87): error C2037: 'next'의 왼쪽은 정의되지 않은 구조체/공용 구조체 'stack'을(를) 지정합니다.
+     1>"C:\Users\LG\Desktop\제출용\2-1 데구\과제3\과제3\과제3.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:01.18
